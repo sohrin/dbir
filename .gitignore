@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/build/
+/common/build/
+/common/build/classes/kotlin/desktop/main/
+/desktop/build/
+/local.properties
+.DS_Store
